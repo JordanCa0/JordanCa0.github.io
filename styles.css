@@ -1,11 +1,11 @@
 @font-face { 
   font-family: 'CircularStd-black';
-  src: url('Fonts/CircularStd-Black.woff') format('woff');
+  src: url('CircularStd-Black.woff') format('woff');
 }
 
 @font-face {
   font-family: 'CircularStd-medium';
-  src: url('Fonts/CircularStd-Medium.woff') format('woff');
+  src: url('CircularStd-Medium.woff') format('woff');
 }
 
 body{
